@@ -1,2 +1,2 @@
 # PEP1
-## Teammates: Nick, Justin, Chi
+Teammates: Nick, Justin, Chi
